@@ -1,5 +1,5 @@
 ### TAUTZ LABORATORY
-# GEOMETRIC MORPHOMETRICS PROTOCOLS
+### GEOMETRIC MORPHOMETRICS PROTOCOLS
 
 Laboratory protocols for scanning and landmarking samples for geometric-morphometric analysis, developed for use by the [Diethard Tautz](http://www.evolbio.mpg.de/15929/evolutionarygenetics) Laboratory at the [Max Planck Institute for Evolutionary Biology](http://www.evolbio.mpg.de/2169/en) in Plön, Germany. These protocols significantly simplify the respective manuals of each system being utilized.
 
