@@ -4,7 +4,7 @@ Laboratory protocols for scanning and landmarking samples for geometric-morphome
 
 ### *File Descriptions*
 
-- ***01. CT-Scanning.docx*** — Protocol for scanning skulls with the Scanco Medical ‘VivaCT 40’ Small Animal Preclinical Microtomography Scanner, using the ‘μCT V6.1’ scanning program, adapted from the the 'VivaCT 40 User's Guide, ([TD-153 Rev. 4.4.'](http://www.scanco.ch/fileadmin/webmaster_img/Documents/Manual_vivaCT40.pdf)).
+- ***01. CT-Scanning.docx*** — Protocol for scanning skulls with the Scanco Medical ‘VivaCT 40’ Small Animal Preclinical Microtomography Scanner, using the ‘μCT V6.1’ scanning program, adapted from the the 'VivaCT 40 User's Guide' ([TD-153 Rev. 4.4](http://www.scanco.ch/fileadmin/webmaster_img/Documents/Manual_vivaCT40.pdf)).
 
 - ***02. TINA Protocol.docx*** — TINA (TINA Is No Acronym) landmarking protocol adapted from ‘*The TINA Geometric Morphometrics Toolkit*’ ([Bromiley, Ragheb, and Thacker, 2012](http://www.tina-vision.net/docs/memos/2010-007.pdf)).
 
